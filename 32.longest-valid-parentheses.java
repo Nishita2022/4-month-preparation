@@ -7,8 +7,8 @@
 // @lc code=start
 class Solution {
     public int longestValidParentheses(String s) {
+        // Dummy line of code mentioned in line 10
         
     }
 }
 // @lc code=end
-
